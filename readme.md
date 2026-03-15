@@ -41,8 +41,6 @@ Sugere mensagens para manter contato com clientes interessados.
 
 ## 🧩 Workflow do Copiloto de Vendas
 
-## 🧩 Workflow do Copiloto de Vendas
-
 ```text
            ┌──────────────────────────────┐
            │        Cliente               │
